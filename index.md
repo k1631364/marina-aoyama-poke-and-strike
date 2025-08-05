@@ -40,7 +40,7 @@ In many dynamic robotic tasks, such as striking pucks into a goal outside the re
 
 ## Summary Video (with voice 🔈) 
 <video id="myVideo" width="800" height="450" controls loop>
-  <source src="assets/videos/sony_intern_summary_video_compressed.mp4" type="video/mp4">
+  <source src="assets/videos/3min_video_poke_and_strike.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
