@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
+title: Poke and Strike: Learning Task-Informed Exploration Policies
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-# Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
+# Poke and Strike: Learning Task-Informed Exploration Policies
 
 <a href="https://scholar.google.com/citations?user=OJmSDo8AAAAJ&hl=ja&oi=ao" target="_blank" style="color: #5faee3; text-decoration: none;">Marina Y. Aoyama</a><sup>1</sup>, 
+<a href="https://scholar.google.co.jp/citations?user=1L5kTRcAAAAJ&hl=en&oi=sra" target="_blank" style="color: #5faee3; text-decoration: none;">Joao Moura</a><sup>1</sup>, 
+Juan Del Aguila Ferrandis<sup>1</sup>, 
 <a href="https://scholar.google.com/citations?user=JdRs1sQAAAAJ&hl=ja&oi=ao" target="_blank" style="color: #5faee3; text-decoration: none;">Sethu Vijayakumar</a><sup>1</sup>, 
-<a href="https://ieeexplore.ieee.org/author/37088504288" target="_blank" style="color: #5faee3; text-decoration: none;">Tetsuya Narita</a><sup>2</sup>
 
 <sup>1</sup>The University of Edinburgh, <sup>2</sup>Sony Group Corporation 
 
