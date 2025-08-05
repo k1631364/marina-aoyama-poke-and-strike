@@ -40,13 +40,13 @@ In many dynamic robotic tasks, such as striking pucks into a goal outside the re
 
 ## Summary Video (with voice 🔈) 
 <video id="myVideo" width="800" height="450" controls loop>
-  <source src="assets/videos/3min_video_poke_and_strike.mp4" type="video/mp4">
+  <source src="videos/3min_video_poke_and_strike.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ## Method
 
-To address this, we propose a few-shot tool-use skill transfer framework using multimodal sensing. The framework involves pre-training the base policy to capture contact states common in tool-use skills in simulation and fine-tuning it with human demonstrations collected in the real-world target domain to bridge the domain gap. 
+we propose a task-informed exploration approach, based on reinforcement learning, that trains an exploration policy using rewards automatically generated from the sensitivity of a privileged task policy to errors in estimated properties. We also introduce an uncertainty-based mechanism to determine when to transition from exploration to task execution, ensuring sufficient property estimation accuracy with minimal exploration time. 
 
 <video width="800" height="450" controls muted loop autoplay playsinline webkit-playsinline>
   <source src="assets/videos/method_noaudio_speedup.mp4" type="video/mp4">
