@@ -46,34 +46,12 @@ In many dynamic robotic tasks, such as striking pucks into a goal outside the re
 
 ## Method
 
-we propose a task-informed exploration approach, based on reinforcement learning, that trains an exploration policy using rewards automatically generated from the sensitivity of a privileged task policy to errors in estimated properties. We also introduce an uncertainty-based mechanism to determine when to transition from exploration to task execution, ensuring sufficient property estimation accuracy with minimal exploration time. 
+We propose a task-informed exploration approach, based on reinforcement learning, that trains an exploration policy using rewards automatically generated from the sensitivity of a privileged task policy to errors in estimated properties. We also introduce an uncertainty-based mechanism to determine when to transition from exploration to task execution, ensuring sufficient property estimation accuracy with minimal exploration time. 
 
 <video width="800" height="450" controls muted loop autoplay playsinline webkit-playsinline>
   <source src="assets/videos/method_noaudio_speedup.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-### Data collection 
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
-
-  <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
-      <source src="assets/videos/sim_datacollection_small_noaudio.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Pre-training in sim</div>
-  </div>
-
-  <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
-      <source src="assets/videos/demo_datacollection_small_noaudio.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Fine-tuning in real</div>
-  </div>
-
-</div>
 
 ## Results 
 All videos are shown at 1.0× speed!
