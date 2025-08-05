@@ -14,7 +14,7 @@ title: "Poke and Strike: Learning Task-Informed Exploration Policies"
 
 <sup>1</sup>The University of Edinburgh
 
-9th Annual Conference on Robot Learning (CoRL) 2025. Seoul, Korea. 
+9th Annual Conference on Robot Learning (CoRL) 2025 
 
 <div class="button-container">
   <a href="https://ieeexplore.ieee.org/abstract/document/11053701" target="_blank" class="my-button">
@@ -28,7 +28,7 @@ title: "Poke and Strike: Learning Task-Informed Exploration Policies"
   </a>
 </div>
 
-Our few-shot approach learns to manipulate new tools with few demonstrations! 
+Our approach learns to explore physical properties that matter for the task! 
 
 <video width="800" height="450" controls muted loop autoplay playsinline webkit-playsinline>
   <source src="assets/videos/fourtask_short_video_compressed_noaudio.mp4" type="video/mp4">
@@ -36,7 +36,7 @@ Our few-shot approach learns to manipulate new tools with few demonstrations!
 </video>
 
 ## Abstract 
-Tools extend the manipulation abilities of robots, much like they do for humans. Despite human expertise in tool manipulation, teaching robots these skills faces challenges. The complexity arises from the interplay of two points of contact: one between the robot and the tool, and another between the tool and the environment. Tactile and proximity sensors play a crucial role in identifying these complex contacts. However, learning tool manipulation with a small amount of real-world data using these sensors remains challenging due to the large sim-to-real gap and sensor noise. To address this, we propose a few-shot tool-use skill transfer framework using multimodal sensing. The framework involves pre-training the base policy to capture contact states common in tool-use skills in simulation and fine-tuning it with human demonstrations collected in the real-world target domain to bridge the domain gap. We validate that this framework enables teaching surface-following tasks using tools with diverse physical and geometric properties with a small number of demonstrations on the Franka Emika robot arm. Our analysis suggests that the robot acquires new tool-use skills by transferring the ability to recognise tool-environment contact relationships from pre-trained to fine-tuned policies. Additionally, integrating proximity and tactile sensors enhances the identification of contact states and environmental geometry. 
+In many dynamic robotic tasks, such as striking pucks into a goal outside the reachable workspace, the robot must first identify the relevant physical properties of the object for successful task execution, as it is unable to recover from failure or retry without human intervention. To address this challenge, we propose a task-informed exploration approach, based on reinforcement learning, that trains an exploration policy using rewards automatically generated from the sensitivity of a privileged task policy to errors in estimated properties. We also introduce an uncertainty-based mechanism to determine when to transition from exploration to task execution, ensuring sufficient property estimation accuracy with minimal exploration time. Our method achieves a 90% success rate on the striking task with an average exploration time under 1.2 seconds—significantly outperforming baselines that achieve at most 40% success or require inefficient querying and retraining in a simulator at test time. Additionally, we demonstrate that our task-informed rewards capture the relative importance of physical properties in both the striking task and the classical CartPole example. Finally, we validate our approach by demonstrating its ability to identify object properties and adjust task execution in a physical setup using the KUKA iiwa robot arm. 
 
 ## Summary Video (with voice 🔈) 
 <video id="myVideo" width="800" height="450" controls loop>
