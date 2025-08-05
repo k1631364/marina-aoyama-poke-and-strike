@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Poke and Strike: Learning Task-Informed Exploration Policies
+title: "Poke and Strike: Learning Task-Informed Exploration Policies"
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
