@@ -14,7 +14,7 @@ title: "Poke and Strike: Learning Task-Informed Exploration Policies"
 
 <sup>1</sup>The University of Edinburgh
 
-IEEE Robotics and Automation Letters (RA-L) 2025 
+9th Annual Conference on Robot Learning (CoRL) 2025. Seoul, Korea. 
 
 <div class="button-container">
   <a href="https://ieeexplore.ieee.org/abstract/document/11053701" target="_blank" class="my-button">
