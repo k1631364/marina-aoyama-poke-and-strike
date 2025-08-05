@@ -9,10 +9,10 @@ title: Poke and Strike: Learning Task-Informed Exploration Policies
 
 <a href="https://scholar.google.com/citations?user=OJmSDo8AAAAJ&hl=ja&oi=ao" target="_blank" style="color: #5faee3; text-decoration: none;">Marina Y. Aoyama</a><sup>1</sup>, 
 <a href="https://scholar.google.co.jp/citations?user=1L5kTRcAAAAJ&hl=en&oi=sra" target="_blank" style="color: #5faee3; text-decoration: none;">Joao Moura</a><sup>1</sup>, 
-Juan Del Aguila Ferrandis<sup>1</sup>, 
+<span style="color: #5faee3; text-decoration: none;">Juan Del Aguila Ferrandis</span><sup>1</sup>
 <a href="https://scholar.google.com/citations?user=JdRs1sQAAAAJ&hl=ja&oi=ao" target="_blank" style="color: #5faee3; text-decoration: none;">Sethu Vijayakumar</a><sup>1</sup>, 
 
-<sup>1</sup>The University of Edinburgh, <sup>2</sup>Sony Group Corporation 
+<sup>1</sup>The University of Edinburgh
 
 IEEE Robotics and Automation Letters (RA-L) 2025 
 
