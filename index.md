@@ -48,13 +48,13 @@ In many dynamic robotic tasks, such as striking pucks into a goal outside the re
 
 We propose a task-informed exploration approach, based on reinforcement learning, that trains an exploration policy using rewards automatically generated from the sensitivity of a privileged task policy to errors in estimated properties. We also introduce an uncertainty-based mechanism to determine when to transition from exploration to task execution, ensuring sufficient property estimation accuracy with minimal exploration time. 
 
-### Training steps 
+Training time 
 <video width="800" height="450" controls muted loop autoplay playsinline webkit-playsinline>
   <source src="videos/method_train_nosound.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Test time  
+Test time
 <video width="800" height="450" controls muted loop autoplay playsinline webkit-playsinline>
   <source src="videos/method_test_nosound.mp4" type="video/mp4">
   Your browser does not support the video tag.
