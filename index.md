@@ -14,7 +14,7 @@ title: "Poke and Strike: Learning Task-Informed Exploration Policies"
 
 <sup>1</sup>The University of Edinburgh
 
-9th Annual Conference on Robot Learning (CoRL) 2025 
+Conference on Robot Learning (CoRL) 2025 
 
 <div class="button-container">
   <a href="https://ieeexplore.ieee.org/abstract/document/11053701" target="_blank" class="my-button">
