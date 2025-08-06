@@ -112,20 +112,6 @@ All videos are shown at 1.0× speed!
   
 </div>
 
-### Robustness to external disturbances 
-
-<div style="display: flex; justify-content: center; gap: 1rem; max-width: 800px; margin: auto;">
-  
-  <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
-      <source src="assets/videos/real_disturbances_short_compressed.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <!--<div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Real</div>-->
-  </div>
-
-</div>
-
 ### Citation 
 <div class="citation-wide">
   <div style="position: relative; max-width: 950px; margin: 0 auto;">
@@ -151,13 +137,14 @@ All videos are shown at 1.0× speed!
       overflow-x: auto;
       white-space: pre-wrap;
       word-break: break-word;
-    "><code id="bibtex-block">@article{aoyama2025few,
-  title={Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing},
-  author={Aoyama, Marina Y and Vijayakumar, Sethu and Narita, Tetsuya},
-  journal={IEEE Robotics and Automation Letters},
-  year={2025},
-  publisher={IEEE}
-}</code></pre>
+    "><code id="bibtex-block">@inproceedings{
+      aoyama2025poke,
+      title={Poke and Strike: Learning Task-Informed Exploration Policies},
+      author={Marina Y. Aoyama and Joao Moura and Juan Del Aguila Ferrandis and Sethu Vijayakumar},
+      booktitle={9th Annual Conference on Robot Learning},
+      year={2025},
+      }
+    </code></pre>
   </div>
 </div>
 
