@@ -138,7 +138,7 @@ All videos are shown at 1.0× speed!
   <div style="text-align: center; font-weight: bold; font-size: 1rem; font-family: monospace;">Edge Pushing</div>
 
   <div style="text-align: center;">
-    <div style="font-size: 0.85rem; color: #555; margin-bottom: 0.75rem;"> Learned to poke and strike </div>
+    <div style="font-size: 0.85rem; color: #555; margin-bottom: 1rem;"> Learned to poke and strike </div>
     <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="videos/striking_main_nosound.mp4" type="video/mp4">
       Your browser does not support the video tag.
@@ -146,7 +146,7 @@ All videos are shown at 1.0× speed!
   </div>
 
   <div style="text-align: center;">
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;"> Learned to rotate and push to the edge </div>
+    <div style="font-size: 0.85rem; color: #555; margin-bottom: 1rem;"> Learned to rotate and push to the edge </div>
     <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="videos/egg_main_nosound.mp4" type="video/mp4">
       Your browser does not support the video tag.
@@ -154,7 +154,7 @@ All videos are shown at 1.0× speed!
   </div>
 
   <div style="text-align: center;">
-    <div style="font-size: 0.85rem; color: #555; margin-bottom: 0.75rem;"> Pucks with 3 different friction levels: 8/9 </div>
+    <div style="font-size: 0.85rem; color: #555; margin-bottom: 1rem;"> Pucks with 3 different friction levels: 8/9 </div>
     <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="videos/striking_trials_nosound.mp4" type="video/mp4">
       Your browser does not support the video tag.
@@ -162,7 +162,7 @@ All videos are shown at 1.0× speed!
   </div>
 
   <div style="text-align: center;">
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;"> Box with eggs on 2 different sides: 8/10 </div>
+    <div style="font-size: 0.85rem; color: #555; margin-bottom: 1rem;"> Box with eggs on 2 different sides: 8/10 </div>
     <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="videos/egg_trials_nosound.mp4" type="video/mp4">
       Your browser does not support the video tag.
@@ -170,7 +170,7 @@ All videos are shown at 1.0× speed!
   </div>
 
   <div style="text-align: center;">
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;"> Friction </div>
+    <div style="font-size: 0.85rem; color: #555; margin-bottom: 1rem;"> Friction </div>
     <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="videos/striking_estimates_nosound.mp4" type="video/mp4">
       Your browser does not support the video tag.
@@ -178,7 +178,7 @@ All videos are shown at 1.0× speed!
   </div>
 
   <div style="text-align: center;">
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;"> CoM x </div>
+    <div style="font-size: 0.85rem; color: #555; margin-bottom: 1rem;"> CoM x </div>
     <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="videos/egg_estimates_nosound.mp4" type="video/mp4">
       Your browser does not support the video tag.
