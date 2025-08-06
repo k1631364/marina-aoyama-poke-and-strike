@@ -131,7 +131,11 @@ All videos are shown at 1.0× speed!
 
 ### Demo only (baseline) vs. Pre-train+Demo (proposed) 
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem 4rem; max-width: 900px; margin: auto;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4rem 6rem; max-width: 900px; margin: auto;">
+
+  <!-- Column Headers -->
+  <div style="text-align: center; font-weight: bold; font-size: 1rem;">Striking</div>
+  <div style="text-align: center; font-weight: bold; font-size: 1rem;">Edge Pushing</div>
 
   <div style="text-align: center;">
     <div style="font-size: 0.85rem; color: #555; margin-bottom: 0.75rem;"> Property and uncertainty estimates of friction </div>
