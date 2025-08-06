@@ -54,12 +54,11 @@ We propose a task-informed exploration approach, based on reinforcement learning
 </video>
 
 ## Results 
-All videos are shown at 1.0× speed!
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 3rem 5rem; max-width: 900px; margin: auto;">
 
   <!-- Column Headers -->
-  <div style="text-align: center; font-weight: bold; font-size: 1rem; font-family: monospace; margin-bottom: 0.25rem;">Striking</div>
+  <div style="text-align: center; font-weight: bold; font-size: 1rem; font-family: monospace; margin-bottom: 0.75rem;">Striking</div>
   <div style="text-align: center; font-weight: bold; font-size: 1rem; font-family: monospace;">Edge Pushing</div>
 
   <div style="text-align: center;">
