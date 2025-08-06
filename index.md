@@ -138,7 +138,7 @@ All videos are shown at 1.0× speed!
       <source src="videos/striking_estimates_nosound.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Demo only (baseline)<br>Pressing too much! Tool slippage. </div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;"> Property and uncertainty estimates of friction </div>
   </div>
 
   <div style="text-align: center;">
@@ -146,7 +146,7 @@ All videos are shown at 1.0× speed!
       <source src="videos/egg_estimates_nosound.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Pre-train+Demo (proposed) </div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Property and uncertainty estimates of CoM x</div>
   </div>
 
 </div>
