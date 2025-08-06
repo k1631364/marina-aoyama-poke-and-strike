@@ -131,7 +131,7 @@ All videos are shown at 1.0× speed!
 
 ### Demo only (baseline) vs. Pre-train+Demo (proposed) 
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem 1rem; max-width: 900px; margin: auto;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem 4rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
     <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;"> Property and uncertainty estimates of friction </div>
