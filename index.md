@@ -134,21 +134,21 @@ All videos are shown at 1.0× speed!
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;"> Property and uncertainty estimates of friction </div>
     <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="videos/striking_estimates_nosound.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;"> Property and uncertainty estimates of friction </div>
   </div>
 
   <div style="text-align: center;">
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Property and uncertainty estimates of CoM x</div>
     <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="videos/egg_estimates_nosound.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Property and uncertainty estimates of CoM x</div>
   </div>
-
+  
 </div>
 
 ### Robustness to external disturbances 
