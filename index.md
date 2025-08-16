@@ -111,6 +111,13 @@ We propose a task-informed exploration approach, based on reinforcement learning
   
 </div>
 
+### Sensitivity modeling and exploration rewards generation
+
+### Tricking the robot
+
+### Can the robot identify the shifted weight? 
+
+
 ## BibTex 
 <div class="citation-wide">
   <div style="position: relative; max-width: 950px; margin: 0 auto;">
