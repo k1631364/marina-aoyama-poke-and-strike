@@ -30,7 +30,7 @@ Conference on Robot Learning (CoRL) 2025
 
 Our approach learns to explore physical properties that matter for the task! 
 
-<video width="800" height="450" controls muted loop autoplay playsinline webkit-playsinline>
+<video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
   <source src="videos/3min_video_poke_and_strike.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
