@@ -30,7 +30,7 @@ Conference on Robot Learning (CoRL) 2025
 
 <h2>Summary Video (with voice 🔈)</h2>
 
-<video width="800" height="450" controls muted loop autoplay playsinline webkit-playsinline>
+<video width="800" height="450" controls loop autoplay playsinline webkit-playsinline>
   <source src="videos/3min_video_poke_and_strike.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
