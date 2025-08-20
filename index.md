@@ -30,7 +30,7 @@ Conference on Robot Learning (CoRL) 2025
 
 <h2>Summary Video (with voice 🔈)</h2>
 
-<video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
+<video width="800" height="450" controls muted loop autoplay playsinline webkit-playsinline>
   <source src="videos/3min_video_poke_and_strike.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -42,9 +42,13 @@ Conference on Robot Learning (CoRL) 2025
     </p>
 </div>
 
-## Method
-
+<h2>Method</h2>
+<div style="text-align: justify;">
+  <p>
 We propose a task-informed exploration approach, based on reinforcement learning, that trains an exploration policy using rewards automatically generated from the sensitivity of a privileged task policy to errors in estimated properties. We also introduce an uncertainty-based mechanism to determine when to transition from exploration to task execution, ensuring sufficient property estimation accuracy with minimal exploration time. 
+approach by demonstrating its ability to identify object properties and adjust task execution in a physical setup using the KUKA iiwa robot arm. 
+    </p>
+</div>
 
 <img src="videos/method_image.png" 
      width="600" 
