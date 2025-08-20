@@ -53,11 +53,6 @@ We propose a task-informed exploration approach, based on reinforcement learning
      alt="Method illustration" 
      style="display: block; margin: 0 auto;">
 
-<video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
-  <source src="videos/method_nosound.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ## Results 
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 3rem 5rem; max-width: 900px; margin: auto;">
