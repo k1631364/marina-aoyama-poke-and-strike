@@ -28,7 +28,7 @@ Conference on Robot Learning (CoRL) 2025
   </a>
 </div>
 
-<div style="background-color: #f0f0f0; padding: 2rem 1rem; text-align: center; width: 100vw; margin-left: calc(-50vw + 50%);">
+<div style="background-color: #f0f0f0; padding: 1rem 1rem; text-align: center; width: 100vw; margin-left: calc(-50vw + 50%);">
   <h2>Summary Video (with voice 🔈)</h2>
   <p>Our approach learns to explore physical properties that matter for the task!</p>
 
