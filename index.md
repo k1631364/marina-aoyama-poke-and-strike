@@ -51,7 +51,7 @@ Conference on Robot Learning (CoRL) 2025
 
 We propose a task-informed exploration approach, based on reinforcement learning, that trains an exploration policy using rewards automatically generated from the sensitivity of a privileged task policy to errors in estimated properties. We also introduce an uncertainty-based mechanism to determine when to transition from exploration to task execution, ensuring sufficient property estimation accuracy with minimal exploration time. 
 
-<img src="images/method_image.png" 
+<img src="videos/method_image.png" 
      width="600" 
      height="450" 
      alt="Method illustration" 
