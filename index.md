@@ -112,23 +112,6 @@ We propose a task-informed exploration approach, based on reinforcement learning
       Your browser does not support the video tag.
     </video>
   </div>
-
-  <div style="text-align: center;">
-    <div style="font-size: 0.85rem; color: #555; margin-bottom: 1rem;"> Tricking the robot </div>
-    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
-      <source src="videos/striking_trick_the_robot.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div style="text-align: center;">
-    <div style="font-size: 0.85rem; color: #555; margin-bottom: 1rem;"> Can the robot identify the shifted weight? </div>
-    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
-      <source src="videos/edge_pushing_egg.m4v" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  
 </div>
 
 ### Tricking the robot
