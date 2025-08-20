@@ -28,17 +28,6 @@ Conference on Robot Learning (CoRL) 2025
   </a>
 </div>
 
-<div style="background-color: #f0f0f0; padding: 1rem; border-radius: 8px; text-align: center; max-width: 650px; margin: 2rem auto;">
-## Summary Video (with voice 🔈) 
-
-Our approach learns to explore physical properties that matter for the task! 
-
-<video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
-  <source src="videos/3min_video_poke_and_strike.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>
-
 <div style="background-color: #f0f0f0; padding: 2rem 1rem; text-align: center; width: 100vw; margin-left: calc(-50vw + 50%);">
   <h2>Summary Video (with voice 🔈)</h2>
   <p>Our approach learns to explore physical properties that matter for the task!</p>
@@ -50,9 +39,14 @@ Our approach learns to explore physical properties that matter for the task!
 </div>
 
 <div style="text-align: justify;">
-## Abstract 
-In many dynamic robotic tasks, such as striking pucks into a goal outside the reachable workspace, the robot must first identify the relevant physical properties of the object for successful task execution, as it is unable to recover from failure or retry without human intervention. To address this challenge, we propose a task-informed exploration approach, based on reinforcement learning, that trains an exploration policy using rewards automatically generated from the sensitivity of a privileged task policy to errors in estimated properties. We also introduce an uncertainty-based mechanism to determine when to transition from exploration to task execution, ensuring sufficient property estimation accuracy with minimal exploration time. Our method achieves a 90% success rate on the striking task with an average exploration time under 1.2 seconds—significantly outperforming baselines that achieve at most 40% success or require inefficient querying and retraining in a simulator at test time. Additionally, we demonstrate that our task-informed rewards capture the relative importance of physical properties in both the striking task and the classical CartPole example. Finally, we validate our approach by demonstrating its ability to identify object properties and adjust task execution in a physical setup using the KUKA iiwa robot arm. 
+  <h2>Abstract</h2>
+  <p>
+  ## Abstract 
+  In many dynamic robotic tasks, such as striking pucks into a goal outside the reachable workspace, the robot must first identify the relevant physical properties of the object for successful task execution, as it is unable to recover from failure or retry without human intervention. To address this challenge, we propose a task-informed exploration approach, based on reinforcement learning, that trains an exploration policy using rewards automatically generated from the sensitivity of a privileged task policy to errors in estimated properties. We also introduce an uncertainty-based mechanism to determine when to transition from exploration to task execution, ensuring sufficient property estimation accuracy with minimal exploration time. Our method achieves a 90% success rate on the striking task with an average exploration time under 1.2 seconds—significantly outperforming baselines that achieve at most 40% success or require inefficient querying and retraining in a simulator at test time. Additionally, we demonstrate that our task-informed rewards capture the relative importance of physical properties in both the striking task and the classical CartPole example. Finally, we validate our approach by demonstrating its ability to identify object properties and adjust task execution in a physical setup using the KUKA iiwa robot arm. 
+  </p>
 </div>
+
+
 
 ## Method
 
