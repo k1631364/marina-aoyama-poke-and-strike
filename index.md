@@ -123,13 +123,6 @@ We propose a task-informed exploration approach, based on reinforcement learning
   
 </div>
 
-### Sensitivity modeling and exploration rewards generation
-
-<video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
-  <source src="videos/sensitivity_cropped.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ### Tricking the robot
 
 <video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
@@ -141,6 +134,13 @@ We propose a task-informed exploration approach, based on reinforcement learning
 
 <video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
   <source src="videos/edge_pushing_egg.m4v" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Sensitivity modeling and exploration rewards generation
+
+<video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
+  <source src="videos/sensitivity_cropped.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
