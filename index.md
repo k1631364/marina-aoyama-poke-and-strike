@@ -113,10 +113,24 @@ We propose a task-informed exploration approach, based on reinforcement learning
 
 ### Sensitivity modeling and exploration rewards generation
 
+<video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
+  <source src="videos/sensitivity_cropped.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Tricking the robot
+
+<video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
+  <source src="videos/striking_trick_the_robot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Can the robot identify the shifted weight? 
 
+<video width="600" height="450" controls muted loop autoplay playsinline webkit-playsinline>
+  <source src="videos/edge_pushing_egg.m4v" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## BibTex 
 <div class="citation-wide">
