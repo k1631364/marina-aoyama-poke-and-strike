@@ -49,7 +49,7 @@ approach by demonstrating its ability to identify object properties and adjust t
 </div>
 
 <img src="videos/method_image.png" 
-     width="600" 
+     width="800" 
      height="450" 
      alt="Method illustration" 
      style="display: block; margin: 0 auto;">
