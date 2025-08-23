@@ -12,7 +12,7 @@ title: "Poke and Strike: Learning Task-Informed Exploration Policies"
 <span style="color: #5faee3; text-decoration: none;">Juan Del Aguila Ferrandis</span><sup>1</sup>
 <a href="https://scholar.google.com/citations?user=JdRs1sQAAAAJ&hl=ja&oi=ao" target="_blank" style="color: #5faee3; text-decoration: none;">Sethu Vijayakumar</a><sup>1</sup>
 
-<sup>1</sup>The University of Edinburgh
+<sup>1</sup>School of Informatics, The University of Edinburgh, UK
 
 Conference on Robot Learning (CoRL) 2025 
 
