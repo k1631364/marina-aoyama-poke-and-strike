@@ -116,6 +116,12 @@
       background-color: #4a4a4a;
     }
 
+    .my-button.disabled {
+      pointer-events: none;   /* disables clicks */
+      opacity: 0.5;           /* optional: gray out */
+      cursor: default;        /* remove hand cursor */
+    }
+
     /* mimic .is-size-4 */
     .is-size-4 {
       font-size: 1.5rem !important;
