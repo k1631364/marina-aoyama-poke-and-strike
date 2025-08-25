@@ -17,17 +17,17 @@ title: "Poke and Strike: Learning Task-Informed Exploration Policies"
 Conference on Robot Learning (CoRL) 2025 
 
 <div class="button-container">
-  <a href="https://ieeexplore.ieee.org/abstract/document/11053701" target="_blank" class="my-button">
+  <a href="#" class="my-button disabled">
     <span class="icon"><i class="fas fa-file-alt"></i></span>
     <span>Paper</span>
   </a>
   
-  <a href="#" id="jumpToVideo" class="my-button">
+  <a href="#" class="my-button disabled">
     <span class="icon"><i class="fas fa-video"></i></span>
     <span>Video</span>
   </a>
-
-  <a href="https://k1631364.github.io/marina-aoyama-poke-and-strike/" target="_blank" class="my-button">
+  
+  <a href="#" class="my-button disabled">
     <span class="icon"><i class="fab fa-github"></i></span>
     <span>Code</span>
   </a>
