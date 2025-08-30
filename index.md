@@ -31,12 +31,6 @@ Conference on Robot Learning (CoRL) 2025
     <span class="icon"><i class="fab fa-github"></i></span>
     <span>Code</span>
   </a>
-
-  <a href="https://www.youtube.com/watch?v=zP4JvHaCWHk" 
-     class="my-button" target="_blank">
-    <span class="icon"><i class="fas fa-video"></i></span>
-    <span>Video</span>
-  </a>
 </div>
 
 <video width="800" height="450" controls loop autoplay playsinline webkit-playsinline style="margin-top: 2rem;">
